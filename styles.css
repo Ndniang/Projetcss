@@ -1,0 +1,42 @@
+
+body {
+    background-color: darkgray;
+    font-family: 'Roboto', sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+nav a {
+    text-align: right;
+    color: #d1c7c7;
+    margin: 0 15px;
+    text-decoration: none;
+}
+nav section {
+    background-color: #181717;
+    color :#631c1c;
+    text-align: center;
+}
+.navbar {
+    display: inline; 
+    background-color: #333;
+    padding: 10px;
+   
+}
+
+.nav a {
+    color: white; 
+    text-decoration: none; 
+    padding: 10px 15px; 
+}
+
+.navbar a:hover {
+    display: inline;
+    background-color: #353333;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #290202;
+    color: #fff;
+}
+
